@@ -161,4 +161,6 @@ export default {
     }
     `,
   ],
+  base: '/mirror/formily-antd',
+  publicPath: '/mirror/formily-antd/',
 }
